@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>com.vnexos.sema</groupId>
-      <artifactId>webapp</artifactId>
+      <artifactId>core</artifactId>
       <version>${project.version}</version>
       <classifier>lib</classifier>
     </dependency>
