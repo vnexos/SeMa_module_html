@@ -18,5 +18,4 @@ public class HTMLMainClass extends AModule {
   public void onDisabled() {
     context.log("HTML disabled!");
   }
-
 }
